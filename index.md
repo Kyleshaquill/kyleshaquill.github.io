@@ -3,25 +3,8 @@ layout: page
 title: About
 ---
 
-# Kyle Shaquill
+# STEM Opportunities for Puerto Rico
 
-Welcome.
+<img src="/puerto-rico-stem.jpg" alt="Puerto Rico STEM students" width="700">
 
-I write strange short stories, surreal fiction, and flash horror.
-
-My stories explore unsettling situations, unexplained places, and psychological horror. Many of them focus on the thin boundary between reality and the unknown.
-
-## What you'll find here
-
-This website will contain:
-
-- Short stories
-- Flash horror
-- Experimental fiction
-- Writing projects
-
-## Current Work
-
-I am currently writing and publishing short fiction exploring surreal horror and strange narratives.
-
-More stories will be added soon.
+This website collects and organizes opportunities for undergraduate students from Puerto Rico interested in STEM fields.
