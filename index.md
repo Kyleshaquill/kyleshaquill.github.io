@@ -1,8 +1,5 @@
 ---
 layout: page
-<p align="center">
-<img src="/website_banner.jpg" alt="Puerto Rico STEM students" width="700">
-</p>
 title: About
 ---
 
