@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: Sobre Nosotros
 ---
 
-# STEM Opportunities for Puerto Rico
-
+# Oportunidades en STEM para estudiantes en Puerto Rico
 <p align="center">
 <img src="/website_banner.jpg" alt="Puerto Rico STEM students" width="100%">
 </p>
