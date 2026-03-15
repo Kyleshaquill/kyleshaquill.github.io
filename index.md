@@ -3,13 +3,20 @@ layout: default
 title: Inicio
 ---
 
-## Bienvenido
+<section class="text-center text-light py-5"
+style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
-Este portal reúne oportunidades STEM para estudiantes subgraduados en Puerto Rico.
+<div class="container py-5">
 
-Aquí encontrarás:
+<h1 class="display-3 fw-bold">
+Oportunidades STEM en Puerto Rico
+</h1>
 
-- Internships
-- Research opportunities
-- Scholarships
-- Summer programs
+<p class="lead">
+Conectando estudiantes subgraduados con investigación,
+internados y programas académicos.
+</p>
+
+</div>
+
+</section>
