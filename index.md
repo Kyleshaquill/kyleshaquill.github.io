@@ -4,8 +4,15 @@ title: Inicio
 ---
 
 <section class="text-center text-light py-5"
-style="background: linear-gradient(135deg,#4b2cff,#0b0f2f);">
+style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
+<div class="container mt-4 text-center">
+
+<img src="/website_banner.jpg"
+class="img-fluid rounded"
+alt="Puerto Rico STEM">
+
+</div>
 <div class="container py-5">
 
 <h1 class="display-3 fw-bold">
