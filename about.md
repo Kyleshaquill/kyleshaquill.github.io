@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 
-Hi, I'm Kyle.
+<section class="text-center text-light py-5"
+style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
-I write strange short stories, surreal fiction, and flash horror.
+<div class="container py-5">
 
-Many of my stories explore strange events, unexplained places, and psychological horror.
