@@ -25,4 +25,16 @@ internados y programas académicos.
 
 </div>
 
+<section class="soft-gradient">
+
+<div class="placeholder-box d-flex align-items-center justify-content-center">
+
+<p class="text-muted">
+Future content placeholder
+</p>
+
+</div>
+
+</section>
+
 </section>
