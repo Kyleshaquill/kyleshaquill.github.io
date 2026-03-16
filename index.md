@@ -51,7 +51,7 @@ Hay muchas oportunidades en las cuales nosotros, puertorriqueños, podemos aplic
 
 <div class="col-md-6 text-center">
 
-<img src="https://placehold.co/500x350"
+<img src="/assets/images/index_1.jpg"
 class="img-fluid rounded shadow"
 alt="placeholder image">
 
@@ -66,7 +66,7 @@ alt="placeholder image">
 
 <div class="col-md-6 text-center">
 
-<img src="https://placehold.co/500x350"
+<img src="/assets/images/index_2.jpg"
 class="img-fluid rounded shadow"
 alt="placeholder image">
 
