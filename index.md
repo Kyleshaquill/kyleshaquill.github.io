@@ -22,13 +22,8 @@ internados y programas académicos.
 <a href="/opportunities" class="btn btn-light btn-lg mt-3">
 Ver Oportunidades
 </a>
-
 </div>
-
 </section>
-
-<!-- CONTENT SECTION -->
-
 <section style="background: linear-gradient(180deg,#ffffff 0%,#f3f7ff 50%,#eaf1ff 100%); padding:100px 0;">
 
 <div class="container">
