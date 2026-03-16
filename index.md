@@ -43,10 +43,6 @@ Encuentra oportunidades STEM
 Encuentra oportunidades para tu carrera profesional en STEM. Nuestro objetivo es crear un solo lugar con las oportunidades disponibles para que puedas PREPARARTE.
 </p>
 
-<p>
-Hay muchas oportunidades en las cuales nosotros, puertorriqueños, podemos aplicar, pero no son fáciles de encontrar. ¡Espero que esta página pueda hacer esas oportunidades mucho más accesibles!
-</p>
-
 </div>
 
 <div class="col-md-6 text-center">
@@ -79,13 +75,7 @@ Conecta con investigación y programas
 </h2>
 
 <p>
-Aquí irá texto explicando cómo los estudiantes pueden descubrir
-laboratorios, programas universitarios y oportunidades de investigación.
-</p>
-
-<p>
-El objetivo es facilitar el acceso a oportunidades académicas
-para estudiantes en Puerto Rico interesados en STEM.
+Hay muchas oportunidades en las cuales nosotros, puertorriqueños, podemos aplicar, pero no son fáciles de encontrar. ¡Espero que esta página pueda hacer esas oportunidades mucho más accesibles!
 </p>
 
 </div>
