@@ -11,11 +11,11 @@ style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 <div class="container py-5">
 
 <h1 class="display-3 fw-bold">
-Oportunidades STEM en Puerto Rico
+¡Porque tiene una carrera, no debe ser difícil!
 </h1>
 
 <p class="lead">
-Conectando estudiantes subgraduados con investigación,
+Conectando estudiantes subgraduados y graduados con investigación,
 internados y programas académicos.
 </p>
 
@@ -39,7 +39,7 @@ Encuentra oportunidades STEM
 </h2>
 
 <p>
-Encuentra oportunidades para tu carrera profesional en STEM. Nuestro objetivo es crear un solo lugar con las oportunidades disponibles para que puedas PREPARARTE.
+Encuentra oportunidades para tu carrera profesional en STEM. Nuestro objetivo es crear un solo lugar con las oportunidades disponibles para que puedas PREPARARTE. Hay muchas oportunidades en las cuales nosotros, puertorriqueños, podemos aplicar, pero no son fáciles de encontrar. ¡Espero que esta página pueda hacer esas oportunidades mucho más accesibles!
 </p>
 
 </div>
@@ -70,11 +70,11 @@ alt="placeholder image">
 <div class="col-md-6">
 
 <h2 class="fw-bold">
-Conecta con investigación y programas
+Aprende a aplicar y navegar
 </h2>
 
 <p>
-Hay muchas oportunidades en las cuales nosotros, puertorriqueños, podemos aplicar, pero no son fáciles de encontrar. ¡Espero que esta página pueda hacer esas oportunidades mucho más accesibles!
+¡Aplicar para estas oportunidades y escuelas graduadas nunca es fácil Esta página busca hacer la vida del estudiante más fácil y proveer los recursos necesarios para lograr sus objetivos en un solo lugar.
 </p>
 
 </div>
