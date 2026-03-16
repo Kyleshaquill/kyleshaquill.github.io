@@ -10,4 +10,8 @@ style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
 <h1 class="display-3 fw-bold">
 Sobre Mi
+
+<p class="lead">
+¡Un poquito sobre mí y el proyecto!
+</p>
 </h1>
