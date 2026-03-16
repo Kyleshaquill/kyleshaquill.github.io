@@ -19,7 +19,7 @@ Conectando estudiantes subgraduados con investigación,
 internados y programas académicos.
 </p>
 
-<a href="/opportunities" class="btn btn-light btn-lg mt-3">
+<a href="/Oportunidades" class="btn btn-light btn-lg mt-3">
 Ver Oportunidades
 </a>
 </div>
