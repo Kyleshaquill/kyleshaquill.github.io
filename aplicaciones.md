@@ -34,6 +34,92 @@ Guías y recursos para aplicar exitosamente.
 Aquí irá todo el contenido sobre CV, resume, cover letters, etc.
 </p>
 
+<section class="py-5">
+
+<div class="container">
+
+<!-- CV -->
+
+<h2 class="fw-bold mb-4">CV Académico</h2>
+
+<p>
+El CV académico se utiliza para aplicar a programas de investigación,
+REUs y escuela graduada.
+</p>
+
+<ul>
+<li>Educación</li>
+<li>Experiencia en investigación</li>
+<li>Publicaciones (si tienes)</li>
+<li>Habilidades técnicas</li>
+</ul>
+
+<div class="mb-5">
+<a href="#" class="btn btn-primary">
+Descargar plantilla de CV
+</a>
+</div>
+
+
+<!-- RESUME -->
+
+<h2 class="fw-bold mb-4">Resume (Industria)</h2>
+
+<p>
+El resume es más corto (1 página) y se enfoca en habilidades prácticas
+y experiencia laboral.
+</p>
+
+<ul>
+<li>Experiencia laboral</li>
+<li>Proyectos</li>
+<li>Skills relevantes</li>
+</ul>
+
+<div class="mb-5">
+<a href="#" class="btn btn-primary">
+Ver ejemplo de resume
+</a>
+</div>
+
+
+<!-- COVER LETTER -->
+
+<h2 class="fw-bold mb-4">Cover Letter</h2>
+
+<p>
+Una cover letter explica por qué eres un buen candidato
+para una oportunidad específica.
+</p>
+
+<ul>
+<li>Introduce quién eres</li>
+<li>Por qué te interesa el programa</li>
+<li>Qué puedes aportar</li>
+</ul>
+
+<div class="mb-5">
+<a href="#" class="btn btn-primary">
+Ver plantilla
+</a>
+</div>
+
+
+<!-- TIPS -->
+
+<h2 class="fw-bold mb-4">Tips Importantes</h2>
+
+<ul>
+<li>No uses templates sobrecargados</li>
+<li>Mantén tu CV claro y organizado</li>
+<li>Adapta tu resume a cada aplicación</li>
+<li>Pide feedback a profesores</li>
+</ul>
+
+</div>
+
+</section>
+
 </div>
 
 </section>
