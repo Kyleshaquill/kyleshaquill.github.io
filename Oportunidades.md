@@ -44,10 +44,9 @@ onkeyup="searchTable()">
 
 <!-- TABLE -->
 <div class="table-responsive">
-<table class="table table-striped" id="opportunitiesTable" class="btn btn-sm btn-primary">
+<table class="table table-striped table-hover" id="opportunitiesTable">
 
 <thead>
-
 <tr>
 <th>Programa</th>
 <th>Tipo de Oportunidad</th>
@@ -55,7 +54,6 @@ onkeyup="searchTable()">
 <th> País</th>
 <th>Link</th>
 </tr>
-
 </thead>
 
 <tbody>
