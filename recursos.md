@@ -34,11 +34,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 <div class="col-md-4">
 <a href="/resources/aplicaciones" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<div class="card-body text-center">
 
-<h4 class="fw-bold text-center">Aplicaciones</h4>
+<h4 class="fw-bold">Aplicaciones</h4>
 
-<ul>
+<ul class="list-unstyled">
 <li>CV</li>
 <li>Resume</li>
 <li>Cover Letter</li>
@@ -46,91 +46,97 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 </div>
 </div>
+</a>
 </div>
 
 <!-- Investigación -->
 <div class="col-md-4">
-<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<a href="/resources/investigacion" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<div class="card-body text-center">
 
-<h4 class="fw-bold text-center">Investigación</h4>
+<h4 class="fw-bold">Investigación</h4>
 
-<ul>
+<ul class="list-unstyled">
 <li>Cómo empezar en research</li>
 <li>Contactar profesores</li>
 </ul>
 
 </div>
 </div>
+</a>
 </div>
 
 <!-- Escuela Graduada -->
 <div class="col-md-4">
-<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<a href="/resources/gradschool" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<div class="card-body text-center">
 
-<h4 class="fw-bold text-center">Escuela Graduada</h4>
+<h4 class="fw-bold">Escuela Graduada</h4>
 
-<ul>
+<ul class="list-unstyled">
 <li>Guía completa</li>
 <li>Timeline</li>
 </ul>
 
 </div>
 </div>
+</a>
 </div>
 
 <!-- Internships -->
 <div class="col-md-4">
-<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<a href="/resources/internships" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<div class="card-body text-center">
 
-<h4 class="fw-bold text-center">Internships</h4>
+<h4 class="fw-bold">Internships</h4>
 
-<ul>
+<ul class="list-unstyled">
 <li>Cómo aplicar</li>
 <li>Tips de entrevista</li>
 </ul>
 
 </div>
 </div>
+</a>
 </div>
 
 <!-- Habilidades -->
 <div class="col-md-4">
-<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<a href="/resources/habilidades" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<div class="card-body text-center">
 
-<h4 class="fw-bold text-center">Habilidades</h4>
+<h4 class="fw-bold">Habilidades</h4>
 
-<ul>
+<ul class="list-unstyled">
 <li>Python</li>
 <li>LinkedIn</li>
 </ul>
 
 </div>
 </div>
+</a>
 </div>
 
 <!-- Puerto Rico -->
 <div class="col-md-4">
-<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<a href="/resources/puertorico" class="text-decoration-none text-dark">
 <div class="card h-100 shadow-sm border-0 card-hover">
-<div class="card-body">
+<div class="card-body text-center">
 
-<h4 class="fw-bold text-center">Puerto Rico</h4>
+<h4 class="fw-bold">Puerto Rico</h4>
 
-<ul>
+<ul class="list-unstyled">
 <li>Becas</li>
 <li>Programas locales</li>
 </ul>
 
 </div>
 </div>
+</a>
 </div>
 
 </div>
