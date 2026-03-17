@@ -262,6 +262,30 @@ Ver
 </td>
 </tr>
 
+<tr>
+<td>Conservation Opportunity</td>
+<td>Lista de Multiple Oportunidades</td>
+<td>Ciencias Ambientales(subgraduado y graduado)</td>
+<td>USA / Puerto Rico</td>
+<td>
+<a href="https://conservationopportunity.org/oportunidades/" target="_blank" class="btn btn-sm btn-primary">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>MissDelta Summer REU Opportunities</td>
+<td>Internship</td>
+<td>Ciencias Marinas</td>
+<td>USA</td>
+<td>
+<a href="https://missdelta.org/get-involved/early-career/" target="_blank" class="btn btn-sm btn-primary">
+Ver
+</a>
+</td>
+</tr>
+
 </tbody>
 
 </table>
