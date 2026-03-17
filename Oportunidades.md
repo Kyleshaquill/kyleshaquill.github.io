@@ -268,9 +268,6 @@ Ver
 
 </div>
 
-</section>
-
-
 <script>
 
 function searchTable() {
