@@ -77,7 +77,7 @@ y experiencia laboral.
 </ul>
 
 <div class="mb-5">
-<a href="Resume Template - PReparate!.docx" class="btn btn-primary">
+<a href="/assets/files/Resume Template - PReparate!.docx" class="btn btn-primary">
 Descargar plantilla de Resume
 </a>
 </div>
