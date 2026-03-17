@@ -32,10 +32,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Aplicaciones -->
 <div class="col-md-4">
-<div class="card h-100 shadow-sm border-0">
+<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body">
 
-<h4 class="fw-bold">Aplicaciones</h4>
+<h4 class="fw-bold text-center">Aplicaciones</h4>
 
 <ul>
 <li>CV</li>
@@ -49,10 +50,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Investigación -->
 <div class="col-md-4">
-<div class="card h-100 shadow-sm border-0">
+<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body">
 
-<h4 class="fw-bold">Investigación</h4>
+<h4 class="fw-bold text-center">Investigación</h4>
 
 <ul>
 <li>Cómo empezar en research</li>
@@ -65,10 +67,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Escuela Graduada -->
 <div class="col-md-4">
-<div class="card h-100 shadow-sm border-0">
+<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body">
 
-<h4 class="fw-bold">Escuela Graduada</h4>
+<h4 class="fw-bold text-center">Escuela Graduada</h4>
 
 <ul>
 <li>Guía completa</li>
@@ -81,10 +84,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Internships -->
 <div class="col-md-4">
-<div class="card h-100 shadow-sm border-0">
+<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body">
 
-<h4 class="fw-bold">Internships</h4>
+<h4 class="fw-bold text-center">Internships</h4>
 
 <ul>
 <li>Cómo aplicar</li>
@@ -97,10 +101,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Habilidades -->
 <div class="col-md-4">
-<div class="card h-100 shadow-sm border-0">
+<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body">
 
-<h4 class="fw-bold">Habilidades</h4>
+<h4 class="fw-bold text-center">Habilidades</h4>
 
 <ul>
 <li>Python</li>
@@ -113,10 +118,11 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 
 <!-- Puerto Rico -->
 <div class="col-md-4">
-<div class="card h-100 shadow-sm border-0">
+<a href="/resources/aplicaciones" class="text-decoration-none text-dark">
+<div class="card h-100 shadow-sm border-0 card-hover">
 <div class="card-body">
 
-<h4 class="fw-bold">Puerto Rico</h4>
+<h4 class="fw-bold text-center">Puerto Rico</h4>
 
 <ul>
 <li>Becas</li>
