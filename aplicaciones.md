@@ -15,7 +15,7 @@ Aplicaciones
 </h1>
 
 <p class="lead">
-Guías y recursos para aplicar exitosamente.
+Material educativo para que puedas aplicar a oportunidades
 </p>
 
 </div>
@@ -66,14 +66,14 @@ Descargar plantilla de CV
 <h2 class="fw-bold mb-4">Resume (Industria)</h2>
 
 <p>
-El resume es más corto (1 página) y se enfoca en habilidades prácticas
+El resume es más corto (1  a 2 páginas) y se enfoca en habilidades prácticas
 y experiencia laboral.
 </p>
 
 <ul>
 <li>Experiencia laboral</li>
 <li>Proyectos</li>
-<li>Skills relevantes</li>
+<li>Habilidades relevantes</li>
 </ul>
 
 <div class="mb-5">
