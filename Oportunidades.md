@@ -131,12 +131,12 @@ Ver
 </tr>
 
 <tr>
-<td>ROUSS</td>
-<td>Scholarship</td>
-<td>Multidisciplinario</td>
-<td>Puerto Rico</td>
+<td>BEACHES: Bridging Each Applicant’s Chances for Higher Education Success</td>
+<td>Workshop</td>
+<td>Ciencias Marinas / Ciencias Ambientales</td>
+<td>USA</td>
 <td>
-<a href="https://prlsamp.upr.edu/undergraduate-research/" target="_blank" class="btn btn-sm btn-primary">
+<a href="https://cos.northeastern.edu/marinescience/beaches/" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
@@ -281,6 +281,18 @@ Ver
 <td>USA</td>
 <td>
 <a href="https://missdelta.org/get-involved/early-career/" target="_blank" class="btn btn-sm btn-primary">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td> Early Career Marine Scientist Workshop scholarship</td>
+<td>Scholarship / Workshop</td>
+<td>Ciencias Biologicas / Ciencias Ambientales</td>
+<td>The Bahamas / USA</td>
+<td>
+<a href="https://www.biminisharklab.com/earlycareerworkshop" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
