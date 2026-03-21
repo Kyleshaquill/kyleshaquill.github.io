@@ -95,11 +95,6 @@ para una oportunidad específica.
 <li>Qué puedes aportar</li>
 </ul>
 
-<div class="mb-5">
-<a href="#" class="btn btn-primary">
-Ver plantilla
-</a>
-</div>
 
 
 <!-- TIPS -->
