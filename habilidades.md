@@ -1,18 +1,22 @@
 ---
 layout: default
-title: Habilidades
+title: Programación
 ---
+
+<!-- HERO -->
 
 <section class="text-center text-light py-5"
 style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
 <div class="container py-5">
-<h1 class="display-4 fw-bold">Habilidades en STEM</h1>
-<p class="lead">Las herramientas que necesitas para destacar en research, internships y escuela graduada.</p>
+<h1 class="display-4 fw-bold">Programación en STEM</h1>
+<p class="lead">Una de las habilidades más importantes para research, internships y escuela graduada.</p>
 </div>
 
 </section>
 
+
+<!-- CONTENT -->
 
 <section style="background: linear-gradient(180deg,#ffffff 0%,#f4f8ff 100%); padding:80px 0;">
 
@@ -21,157 +25,143 @@ style="background: linear-gradient(135deg,#2b6cb0,#0a2540);">
 
 <!-- INTRO -->
 
-<h2 class="fw-bold">¿Por qué importan las habilidades?</h2>
+<h2 class="fw-bold">¿Por qué aprender programación?</h2>
 
 <p>
-En STEM no basta con sacar buenas notas. Las oportunidades (research, internships, grad school)
-buscan estudiantes que sepan aplicar lo que aprenden.
-</p>
-
-<p>
-Estas habilidades te ayudan a:
+La programación te permite analizar datos, automatizar tareas y resolver problemas complejos.
+Hoy en día, es una de las habilidades más valiosas en STEM.
 </p>
 
 <ul>
-<li>Conseguir investigación</li>
-<li>Ser competitivo en aplicaciones</li>
-<li>Destacar en entrevistas</li>
+<li>Te abre puertas a research</li>
+<li>Te hace competitivo para internships</li>
+<li>Es altamente valorado en industria</li>
 </ul>
 
 
-<!-- PROGRAMACION -->
+<!-- LENGUAJES -->
 
-<h2 class="fw-bold mt-5">Programación</h2>
+<h2 class="fw-bold mt-5">Lenguajes recomendados</h2>
 
 <p>
-La programación es una de las habilidades más importantes en casi todas las áreas de STEM.
-Se usa para analizar datos, automatizar procesos y resolver problemas complejos.
+No necesitas aprender todos los lenguajes. Empieza con uno y domina lo básico.
 </p>
 
-<p><strong>Lenguajes recomendados:</strong></p>
-
 <ul>
-<li><strong>Python:</strong> el más importante (data, ciencia, automatización)</li>
+<li><strong>Python:</strong> Uno de los más importantes (data, ciencia, automatización)</li>
 <li><strong>R:</strong> estadística y análisis de datos</li>
 <li><strong>MATLAB:</strong> ingeniería y simulaciones</li>
 </ul>
 
-<p><strong>Recursos para aprender:</strong></p>
+
+<!-- ROADMAP -->
+
+<h2 class="fw-bold mt-5">¿Por dónde empezar?</h2>
+
+<p>
+Si estás empezando desde cero, sigue este orden:
+</p>
+
+<ol>
+<li>Aprender lo básico de Python (variables, loops, funciones)</li>
+<li>Practicar con ejercicios simples</li>
+<li>Hacer un proyecto pequeño</li>
+<li>Aprender análisis de datos (pandas, gráficos)</li>
+</ol>
+
+
+<!-- RECURSOS -->
+
+<h2 class="fw-bold mt-5">Recursos recomendados</h2>
 
 <ul>
+
 <li>
 <a href="https://www.youtube.com/@freecodecamp" target="_blank">
 freeCodeCamp (YouTube)
-</a> — cursos completos gratuitos de programación
-</li>
-
-<li>
-<a href="https://www.youtube.com/@CodeWithHarry" target="_blank">
-CodeWithHarry (YouTube)
-</a> — explicaciones paso a paso para principiantes
+</a> — cursos completos gratuitos (muy recomendados)
 </li>
 
 <li>
 <a href="https://cs50.harvard.edu/" target="_blank">
 CS50 de Harvard
-</a> — uno de los cursos más famosos de programación
+</a> — excelente para entender fundamentos
 </li>
+
+<li>
+<a href="https://www.youtube.com/@Coreyms" target="_blank">
+Corey Schafer (YouTube)
+</a> — Python explicado claramente
+</li>
+
+<li>
+<a href="https://www.youtube.com/@TechWithTim" target="_blank">
+Tech With Tim
+</a> — proyectos y práctica
+</li>
+
 </ul>
 
-<p>
-<strong>Consejo:</strong> No solo veas videos — escribe código todos los días.
-</p>
-
-
-<!-- DATA -->
-
-<h2 class="fw-bold mt-5">Análisis de datos</h2>
+<h2 class="fw-bold mt-5">Herramientas necesarias</h2>
 
 <p>
-Muchos campos en STEM trabajan con datos. Saber analizarlos te da una gran ventaja.
+Para empezar a programar, necesitas un editor de código. La mejor opción
+para principiantes es Visual Studio Code.
 </p>
 
 <ul>
-<li>Uso de Python (pandas, numpy)</li>
-<li>Visualización de datos (matplotlib)</li>
-<li>Interpretación de resultados</li>
-</ul>
+<li>
+<a href="https://code.visualstudio.com/" target="_blank">
+Visual Studio Code (VS Code)
+</a> — editor gratuito, ligero y muy popular
+</li>
 
-
-<!-- COMUNICACION -->
-
-<h2 class="fw-bold mt-5">Comunicación</h2>
-
-<p>
-Saber comunicar tus ideas es igual de importante que entenderlas.
-</p>
-
-<ul>
-<li>Escribir emails profesionales</li>
-<li>Hacer presentaciones claras</li>
-<li>Escribir reportes o papers</li>
+<li>Instala Python desde su página oficial</li>
+<li>Instala la extensión de Python en VS Code</li>
 </ul>
 
 <p>
-Esto es clave para contactar profesores, entrevistas y conferencias.
+VS Code es usado por estudiantes, investigadores y profesionales.
+Es fácil de usar y funciona para casi todos los lenguajes.
 </p>
-
-
-<!-- NETWORKING -->
-
-<h2 class="fw-bold mt-5">Networking</h2>
-
-<p>
-Muchas oportunidades llegan a través de conexiones.
-</p>
-
-<ul>
-<li>Hablar con profesores</li>
-<li>Asistir a conferencias</li>
-<li>Usar LinkedIn</li>
-</ul>
-
-<p>
-No es “ser social”, es construir relaciones profesionales.
-</p>
-
 
 <!-- PROYECTOS -->
 
-<h2 class="fw-bold mt-5">Proyectos personales</h2>
+<h2 class="fw-bold mt-5">Proyectos para empezar</h2>
 
 <p>
-Una de las mejores formas de aprender es creando proyectos propios.
+No aprendes programación solo viendo videos. Necesitas hacer proyectos. Uno de los ejemplos más comunes es hacer una calculadora, ya que requiere usar muchas de las cosas básicas.
 </p>
 
+
+
+<!-- CONSEJOS -->
+
+<h2 class="fw-bold mt-5">Consejos importantes</h2>
+
 <ul>
-<li>Un análisis de datos</li>
-<li>Un programa simple en Python</li>
-<li>Un proyecto relacionado a tu área</li>
+<li>Practica todos los días aunque sea 20 minutos</li>
+<li>No tengas miedo de equivocarte</li>
+<li>Busca ayuda en internet cuando la necesites.</li>
 </ul>
 
 <p>
-Esto demuestra iniciativa y te diferencia de otros estudiantes.
+<strong>La consistencia es lo que realmente hace la diferencia.</strong>
 </p>
 
 
-<!-- CONSEJO FINAL -->
+<!-- CTA -->
 
-<h2 class="fw-bold mt-5">Cómo empezar</h2>
+<h2 class="fw-bold mt-5">Siguiente paso</h2>
 
 <p>
-No intentes aprender todo a la vez.
+Una vez tengas lo básico, intenta usar programación en investigación
+o aplica a oportunidades donde puedas seguir desarrollando esta habilidad.
 </p>
 
-<ul>
-<li>Empieza con Python</li>
-<li>Haz un proyecto pequeño</li>
-<li>Aprende poco a poco</li>
-</ul>
-
-<p>
-<strong>La consistencia es más importante que la velocidad.</strong>
-</p>
+<a href="/Oportunidades" class="btn btn-primary mt-3">
+Ver oportunidades
+</a>
 
 
 </div>
