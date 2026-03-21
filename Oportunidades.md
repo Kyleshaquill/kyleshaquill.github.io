@@ -287,12 +287,36 @@ Ver
 </tr>
 
 <tr>
-<td> Early Career Marine Scientist Workshop scholarship</td>
+<td>Early Career Marine Scientist Workshop scholarship</td>
 <td>Scholarship / Workshop</td>
 <td>Ciencias Biologicas / Ciencias Ambientales</td>
 <td>The Bahamas / USA</td>
 <td>
 <a href="https://www.biminisharklab.com/earlycareerworkshop" target="_blank" class="btn btn-sm btn-primary">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Dickinson Museum Center: Seasonal Paleontology Assistant</td>
+<td>Seasonal</td>
+<td>Paleontologia</td>
+<td>USA</td>
+<td>
+<a href="https://www.governmentjobs.com/careers/dickinson/jobs/5208566/seasonal-paleontology-assistant?pagetype=jobOpportunitiesJobs" target="_blank" class="btn btn-sm btn-primary">
+Ver
+</a>
+</td>
+</tr>
+
+<tr>
+<td>Maryland-National Capital Park and Planning Commission</td>
+<td>Internship</td>
+<td>Paleontologia</td>
+<td>USA</td>
+<td>
+<a href="https://www.governmentjobs.com/careers/mncppc/jobs/5268850/paleontology-intern" target="_blank" class="btn btn-sm btn-primary">
 Ver
 </a>
 </td>
