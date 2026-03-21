@@ -69,7 +69,7 @@ Aplicar a escuela graduada toma tiempo. Este es un timeline típico:
 </ul>
 
 <p>
-Algunos programas ya no requieren GRE, pero depende de la universidad.
+Algunos programas ya no requieren GRE, pero depende de la universidad. Tu experiencia académica a veces sobresale más que tu GPA; tener un GPA bajo no te descarta completamente de escuela graduada.
 </p>
 
 
@@ -88,7 +88,7 @@ El SOP es uno de los documentos más importantes. Aquí explicas:
 </ul>
 
 <p>
-Debe ser claro, específico y honesto. Evita escribir cosas genéricas.
+En esencia, es la razón por la que quieres seguir con tu educación y por qué Es bueno contarlo como una historia de cuando tu interés comenzó y tus metas a corto y largo plazo.
 </p>
 
 
@@ -115,6 +115,8 @@ I would like to know if you are accepting students for the upcoming cycle.
 
 Best regards,
 [Tu nombre]
+
+No uses esta plantilla exacta; lee algunos trabajo del profesor y exprésate con respeto y honestidad.
 </pre>
 
 
@@ -123,18 +125,18 @@ Best regards,
 <h2 class="fw-bold mt-5">Financiamiento</h2>
 
 <p>
-Muchos programas de PhD en STEM en Estados Unidos están completamente financiados.
+Muchos programas de maestría y PhD en STEM en Estados Unidos están completamente financiados (muchos programas internacionales también...).
 Esto significa:
 </p>
 
 <ul>
 <li>Matrícula cubierta</li>
-<li>Estipendio mensual</li>
+<li>Estipendio mensual (Normalmente como TA o RA)</li>
 <li>Seguro médico</li>
 </ul>
 
 <p>
-Las maestrías usualmente no son financiadas, pero existen becas y assistantships.
+¡NUNCA PAGUES POR TU EDUCACIÓN Busca que te paguen a ti por educarte.
 </p>
 
 
