@@ -94,8 +94,7 @@ para una oportunidad específica.
 <li>Por qué te interesa el programa</li>
 <li>Qué puedes aportar</li>
 </ul>
-
-
+</div>
 
 <!-- TIPS -->
 
