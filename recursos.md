@@ -94,8 +94,7 @@ Todo lo que necesitas para prepararte académica y profesionalmente.
 <h4 class="fw-bold">Habilidades</h4>
 
 <ul class="list-unstyled">
-<li>Python</li>
-<li>LinkedIn</li>
+<li>Programación</li>
 </ul>
 
 </div>
